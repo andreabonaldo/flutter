@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "217395834497",
+    "firebase_url": "https://meteoveniceapp-default-rtdb.firebaseio.com",
+    "project_id": "meteoveniceapp",
+    "storage_bucket": "meteoveniceapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217395834497:android:d92096a12f16680d796780",
+        "android_client_info": {
+          "package_name": "com.flutterflow.meteovenice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217395834497-1uguhd5fgurcgmfp6gmt1jib73lgdhm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJwFeCZScuNwAcC3Mt4A4gyZZFo6QePWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217395834497-1uguhd5fgurcgmfp6gmt1jib73lgdhm1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "217395834497-u4ukm86vf5aplps1i4juv86rp3p4l3c4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.meteovenice"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

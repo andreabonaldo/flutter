@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>217395834497-u4ukm86vf5aplps1i4juv86rp3p4l3c4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.217395834497-u4ukm86vf5aplps1i4juv86rp3p4l3c4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDQ2HHTq6EoYda1gT-q5KYU9t2NdP6vNXs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>217395834497</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flutterflow.meteovenice</string>
+	<key>PROJECT_ID</key>
+	<string>meteoveniceapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>meteoveniceapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:217395834497:ios:8f4721266023933a796780</string>
+	<key>DATABASE_URL</key>
+	<string>https://meteoveniceapp-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
